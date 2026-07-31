@@ -1,3 +1,8 @@
 {
-    "bot_status": "STOP"
+    "control": "start",
+    "version": "1.0.0",
+    "timestamp": 1732100000,
+    "reason": "Bot running normally. All systems operational.",
+    "signature": "",
+    "control_data": {}
 }
